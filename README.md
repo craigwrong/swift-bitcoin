@@ -132,3 +132,18 @@ The medium term focus is set on completing the wire protocol implementation for 
 Following that the remaining BIPs associated to blocks and transport layer should be implemented. Standard-ness rules will need to be enforced and tested.
 
 Medium-long term we'd like to be able to sync `testnet4` and with that launch our first beta.
+
+_______________________________________________
+
+
+## 🤝 Community Contributions
+
+👋 Hi, I’m John Waldron (JDW) — Irish ₿itcoin Man in the making (on GitHub at least).  
+- Background: 7+ years IBM MQ z/OS QA → now Bitcoin & QA/dev focused but still got some time for mainframes.  
+- Currently: Building adjacent proof-of-work
+- Focus: **QA/testing, documentation, and onboarding, RUST,Python,Playwright** .  
+- Next up: Learning Swift specifically to contribute tests, CI, and vectors here.  
+
+🔗 [GitHub Profile](https://github.com/johndtwaldron) | [LinkedIn](https://www.linkedin.com/in/johndtwaldron/)  
+
+Excited to soon learn and support Swift Bitcoin with quality assurance and testing contributions.
